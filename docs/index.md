@@ -1,6 +1,6 @@
 #
 
-## Bio
+## Bio test
 My name is John Conwell, but I've also gone by "turbo" professionally for the past 20 years. 
 
 I'm a data scientist focused on utilizing data analysis and machine learning to identify phish and malware activity in North/South network traffic and their associated internet infrastructure. I've been exploring this intersection of machine learning and cyber security since 2017 and feel like I've found my calling. I believe that data science isn’t just about data and algorithms, but requires you to understand and empathize with your users; their needs, goals, values, and fears. This is especially true in cyber security where the cost of bad threat predictions could be devastating.
