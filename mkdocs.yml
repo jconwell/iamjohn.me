@@ -1,0 +1,27 @@
+site_name: John 'turbo' Conwell
+site_url: https://www.iamjohn.me
+site_description: A reference site about me, my projects, and my interests
+site_author: John Conwell
+repo_url: https://github.com/jconwell/my_cv
+repo_name: jconwell/my_cv
+theme:
+  name: material
+  logo: assets/cv-icon.png
+  favicon: assets/cv-icon.png
+  palette:
+    scheme: slate
+    primary: black
+    accent: pink
+  features:
+    - navigation.instant
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/turbocodr
+      name: John Conwell on Twitter
+    - icon: fontawesome/brands/github
+      link: https://github.com/jconwell
+      name: John Conwell on GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jconwell/
+      name: John Conwell on LinkedIn
