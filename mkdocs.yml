@@ -4,7 +4,7 @@ site_description: A reference site about me, my projects, and my interests
 site_author: John Conwell
 repo_url: https://github.com/jconwell/my_cv/
 repo_name: jconwell/my_cv
-use_directory_urls: false
+use_directory_urls: true
 edit_uri: ""
 theme:
   name: material
