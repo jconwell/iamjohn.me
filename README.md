@@ -6,7 +6,11 @@ The mkdocs theme used is [Material for MkDocs](https://squidfunk.github.io/mkdoc
 
 ## MkDocs Commands (for my reference)
 
-* `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+
+## Deploy to GitHub Pages
+
+1. run `mkdocs build` to generate the `site/` folder
+1. commit changes to the `site/` folder
+1. GitHub action will deploy the `site/` folder to pages
