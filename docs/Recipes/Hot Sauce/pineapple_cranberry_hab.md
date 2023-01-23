@@ -1,6 +1,6 @@
 # Pineapple Cranberry
 
-<img src="pineapple_cranberry_hab.jpeg"
+<img src="https://iamjohn-assets.s3.us-west-2.amazonaws.com/recipes/pineapple_cranberry_hab.jpeg"
      alt="Pineapple Cranberry Habanero Hot Sauce"
      width=600 />
 

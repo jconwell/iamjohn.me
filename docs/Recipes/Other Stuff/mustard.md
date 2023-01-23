@@ -2,7 +2,7 @@
 
 If you like mustard then once you make homemade mustard you'll never buy it in the jar again
 
-<img src="mustard.jpeg"
+<img src="https://iamjohn-assets.s3.us-west-2.amazonaws.com/recipes/mustard.jpeg"
      alt="Homemade Mustard"
      width=600 />
 
