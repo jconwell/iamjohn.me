@@ -16,11 +16,28 @@ When not honing my InfoSec and Machine Learning chops I also grow around 20 vari
 * [LinkedIn](https://www.linkedin.com/in/jconwell/)
 * [Keybase](https://keybase.io/turbojc/)
 
-## Projects
+## Open Source Projects
 
 ### [Secret Handshake](https://github.com/jconwell/secret_handshake) 
+
 A prototype malware C2 channel using x509 certificates to hold the data payloads over mTLS
+
+### [FQDN Parser](https://github.com/jconwell/fqdn_parser)
+
+FQDN Parser (Fully Qualified Domain Name Parser) is a library used to parse FQDNs into their component parts,
+including subdomains, domain names, and their [Public Suffix](https://publicsuffix.org/list/public_suffix_list.dat).
+
+It also provides additional contextual metadata about the domain's TLD including:
+
+- International TLDs in both unicode and puny code format
+- The TLD type: generic, generic-restricted, country-code, sponsored, test, infrastructure, and host_suffix (.onion)
+- The date the TLD was registered with ICANN
+- In the case of multi-label effective TLDs, is it public like :code:`.co.uk` which is owned by a Registrar or private like :code:`.duckdns.org` which is owned by a private company
+- If the TLD (or any label in the FQDN) is puny code encoded, the ascii'ification of the unicode. This can be useful for identifying registrable domains that use unicode characters that are very similar to ascii characters used by legitimate domains, a common phishing technique.
+
+TLD metadata can be used as contextual features for machine learning models that generate predictions about domain names and FQDNs.
 
 ### [DomainCAT](https://github.com/DomainTools/DomainCAT)
 
 A InfoSec analysis tool used to explore the strength of domain to domain connectivity within a set of domains. It's useful for identifying clusters of related domains that share some common set of registration, naming, or infrastructure patterns during a security investigation such as threat hunting.
+

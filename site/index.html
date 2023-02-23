@@ -260,16 +260,23 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#projects" class="md-nav__link">
-    Projects
+  <a href="#open-source-projects" class="md-nav__link">
+    Open Source Projects
   </a>
   
-    <nav class="md-nav" aria-label="Projects">
+    <nav class="md-nav" aria-label="Open Source Projects">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
   <a href="#secret-handshake" class="md-nav__link">
     Secret Handshake
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fqdn-parser" class="md-nav__link">
+    FQDN Parser
   </a>
   
 </li>
@@ -495,16 +502,23 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#projects" class="md-nav__link">
-    Projects
+  <a href="#open-source-projects" class="md-nav__link">
+    Open Source Projects
   </a>
   
-    <nav class="md-nav" aria-label="Projects">
+    <nav class="md-nav" aria-label="Open Source Projects">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
   <a href="#secret-handshake" class="md-nav__link">
     Secret Handshake
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fqdn-parser" class="md-nav__link">
+    FQDN Parser
   </a>
   
 </li>
@@ -550,9 +564,21 @@
 <li><a href="https://www.linkedin.com/in/jconwell/">LinkedIn</a></li>
 <li><a href="https://keybase.io/turbojc/">Keybase</a></li>
 </ul>
-<h2 id="projects">Projects</h2>
+<h2 id="open-source-projects">Open Source Projects</h2>
 <h3 id="secret-handshake"><a href="https://github.com/jconwell/secret_handshake">Secret Handshake</a></h3>
 <p>A prototype malware C2 channel using x509 certificates to hold the data payloads over mTLS</p>
+<h3 id="fqdn-parser"><a href="https://github.com/jconwell/fqdn_parser">FQDN Parser</a></h3>
+<p>FQDN Parser (Fully Qualified Domain Name Parser) is a library used to parse FQDNs into their component parts,
+including subdomains, domain names, and their <a href="https://publicsuffix.org/list/public_suffix_list.dat">Public Suffix</a>.</p>
+<p>It also provides additional contextual metadata about the domain's TLD including:</p>
+<ul>
+<li>International TLDs in both unicode and puny code format</li>
+<li>The TLD type: generic, generic-restricted, country-code, sponsored, test, infrastructure, and host_suffix (.onion)</li>
+<li>The date the TLD was registered with ICANN</li>
+<li>In the case of multi-label effective TLDs, is it public like :code:<code>.co.uk</code> which is owned by a Registrar or private like :code:<code>.duckdns.org</code> which is owned by a private company</li>
+<li>If the TLD (or any label in the FQDN) is puny code encoded, the ascii'ification of the unicode. This can be useful for identifying registrable domains that use unicode characters that are very similar to ascii characters used by legitimate domains, a common phishing technique.</li>
+</ul>
+<p>TLD metadata can be used as contextual features for machine learning models that generate predictions about domain names and FQDNs.</p>
 <h3 id="domaincat"><a href="https://github.com/DomainTools/DomainCAT">DomainCAT</a></h3>
 <p>A InfoSec analysis tool used to explore the strength of domain to domain connectivity within a set of domains. It's useful for identifying clusters of related domains that share some common set of registration, naming, or infrastructure patterns during a security investigation such as threat hunting.</p>
 
