@@ -32,7 +32,7 @@ It also provides additional contextual metadata about the domain's TLD including
 - International TLDs in both unicode and puny code format
 - The TLD type: generic, generic-restricted, country-code, sponsored, test, infrastructure, and host_suffix (.onion)
 - The date the TLD was registered with ICANN
-- In the case of multi-label effective TLDs, is it public like :code:`.co.uk` which is owned by a Registrar or private like :code:`.duckdns.org` which is owned by a private company
+- In the case of multi-label effective TLDs, is it public like `.co.uk` which is owned by a Registrar or private like `.duckdns.org` which is owned by a private company
 - If the TLD (or any label in the FQDN) is puny code encoded, the ascii'ification of the unicode. This can be useful for identifying registrable domains that use unicode characters that are very similar to ascii characters used by legitimate domains, a common phishing technique.
 
 TLD metadata can be used as contextual features for machine learning models that generate predictions about domain names and FQDNs.
