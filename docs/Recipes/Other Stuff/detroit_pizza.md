@@ -11,7 +11,7 @@ The book this recipe is based on has a list of different pan sizes, and for each
 
 The pan I use is 10.5" x 15.5", but any size will do. You just have to adjust how much dough and cheese you use. The main thing to keep in mind is you want at least 2" if not 3" sides to the pan.
 
-_Note: After making this pizza a couple of times, for my size pan I just use all the dough._
+_Note for me: After making this pizza a couple of times, for my size pan just use all the dough and 25oz of cheese._
 
 ## Cheese
 
@@ -87,21 +87,19 @@ The dough will firm up after each stretch and fold. After the final stretch and 
 
 ### Proofing The Dough
 
-- Cut the cheese up into 1/4" cubes and divide into two equal amounts.
+- Cut the cheese up into 1/4" cubes.
 - 4 hours before you want to bake the pizza pull the pan out of the fridge and remove the plastic wrap.
-- Top the dough with one half of the cheese and gently press them into the dough (but not too hard).
-- Cover with plastic wrap and let the dough rise for 4 hours. The dough should bubble up around the cheese.
+- Top the dough with one third of the cheese and gently press them into the dough (but not too hard).
+- Cover with plastic wrap and let the dough rise and proof for 4 hours. The dough should bubble up around the cheese. (if you can, use an oven with a proof setting)
 
 ### Baking the Pizza
 
 - Preheat the oven to 500F.
 - Top the dough with a layer of pepperoni slices. 
-- Add the remaining half of the cheese cubes, making sure to get plenty around the edges where the dough meets the pan.
+- Add the remaining cheese cubes, making sure to get plenty around the edges where the dough meets the pan.
 - Bake the pizza for 8 minutes
-- Rotate the pan 180 degrees and bake for 7 minutes. The cheese should be caramelly and golden brown.
+- Rotate the pan 180 degrees and bake for 5 more minutes. The cheese should be just starting to turn golden brown and the edges a bit darker.
 - Take pizza out of the oven and using an spatula carefully slide it around the edges to separate the crust from the pan, then lift the pizza out of the pan and onto a cutting board. 
 - Use a spoon to spread two or three stripes of pizza sauce across the top of the pizza.
 - Cut into squares.
 - Eat the hell out of it.
-
-
