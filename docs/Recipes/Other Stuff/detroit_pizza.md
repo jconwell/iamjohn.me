@@ -37,7 +37,7 @@ Put into fridge until ready to use, microwave a bit to warm up just before toppi
 
 ## Day 1
 
-### Making The Dough
+### Making The Dough - Time: 10 minutes
 
 Note: The dough recipe below will work for any pan that is 304 square inches or less. 
 
@@ -50,7 +50,7 @@ Ingredients:
 - Olive oil: 28 grams
 - (more olive oil for when stretching the dough)
 
-Steps:
+Mixing Steps:
 
 - In a bowl add flour, salt, and yeast and stir a bit to combine.
 - Add all of the water and stir with wooden spoon for 30 seconds to form a coarse, shaggy dough.
@@ -60,7 +60,7 @@ Steps:
 - Pour 1 teaspoon of olive oil on a surface and use fingers to spread into 15" circle.
 - Wipe a bit of olive oil on a plastic dough scraper and use the scraper move the dough onto the middle of the oiled surface.
 
-### The Stretch & Fold Technique
+### The Stretch & Fold Technique - Time: roughly 30 minutes
 
 - On the oiled surface, flatten the dough with oiled hands into a circle about 3 times the size of the original dough ball. 
 - Using the oiled plastic scraper lift one third of the circle, folding it into the center.
@@ -72,7 +72,7 @@ Steps:
 Repeat the above process for a total of 4 times, adding more oil to the surface as needed.
 The dough will firm up after each stretch and fold. After the final stretch and fold the dough will be soft and smooth, but firm enough to be moved.
 
-### Panning & Dimpling The Dough
+### Panning & Dimpling The Dough - Time: roughly 1:40
 
 - Add 2 tsp of melted butter and 2.5 tsp of olive oid into your pizza pan and oil the pan all over, including the sides.
 - Transfer dough into the center of the pan.
@@ -85,7 +85,7 @@ The dough will firm up after each stretch and fold. After the final stretch and 
 
 ## Day 2
 
-### Proofing The Dough
+### Proofing The Dough - Time: 4 hours
 
 - Cut the cheese up into 1/4" cubes.
 - 4 hours before you want to bake the pizza pull the pan out of the fridge and remove the plastic wrap.
