@@ -1,6 +1,5 @@
 # Detroit Style Pizza
 
-
 <img src="https://iamjohn-assets.s3.us-west-2.amazonaws.com/recipes/detroit_pizza/5_pizza4.jpeg" 
      alt="Detroit Pizza" 
 width=600 />
