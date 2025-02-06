@@ -43,6 +43,9 @@ Add all the above into a bowl and stir. Taste and add more salt, vinegar, or lem
 
 Put into fridge until ready to use, microwave a bit to warm up just before topping the pizza.
 
+Note: since this is a fresh sauce, not cooked, don't double the garlic. 
+I love garlic but without cooking the sauce it's way too strong.
+
 ## Day 1
 
 ### Making The Dough - Time: 10 minutes

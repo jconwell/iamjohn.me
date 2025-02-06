@@ -1,0 +1,5 @@
+github actions updates so much that my existing .github/workflows config files no longer worked
+
+So i just looked at the current default config files and updated my own
+https://github.com/actions/starter-workflows/blob/main/pages/static.yml
+
